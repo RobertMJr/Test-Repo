@@ -1,0 +1,20 @@
+{
+  "development": {
+    "username": "root",
+    "password": "NewPasword",
+    "dialect": "mysql",
+    "database": "fsjstd-restapi"
+  },
+  "test": {
+    "username": "root",
+    "password": "NewPasword",
+    "dialect": "mysql",
+    "database": "fsjstd-restapi"
+  },
+  "production": {
+    "username": "root",
+    "password": "NewPasword",
+    "dialect": "mysql",
+    "database": "fsjstd-restapi"
+  }
+}
